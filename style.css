@@ -1,0 +1,58 @@
+.page-title{
+    text-align: center;
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+}
+
+.image-container img{
+    max-width: 30%;
+}
+
+.menu-container{
+    text-align: center;
+}
+
+.menu-container p{
+    font-size: x-large;
+}
+
+.menu-list{
+    display: inline-block;
+    text-align: left;
+    font-size: x-large;
+}
+
+.description-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.description-container p{
+    font-size: large;
+}
+
+.description-container div h2 {
+    text-align: center;
+}
+
+.list-body-container{
+    text-align: center;
+}
+
+.list-body-container p{
+    font-size: x-large;
+}
+
+.list-body{
+    display: inline-block;
+    text-align: left;
+    font-size: large;
+}
+
+.return-link{
+    text-align: center;
+}
